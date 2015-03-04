@@ -1,12 +1,5 @@
-AB
-ABCD
-AC
-AI
 ARIDIS
-ATHOC
-AU
 Aaron
-Ab
 Aba
 Abale
 Aban
@@ -63,8 +56,6 @@ Abellinum
 Abelux
 Abgarum
 Abho
-Abiecit
-Abigatque
 Abila
 Abilae
 Abilam
@@ -125,7 +116,6 @@ Abydum
 Abydus
 Abysrtus
 Abzoae
-Ac
 Aca
 Acade
 Academi
@@ -185,14 +175,12 @@ Accam
 Accaus
 Acce
 Accensa
-Accepit
 Acci
 Accianos
 Accianum
 Accianus
 Accii
 Accio
-Accipe
 Accitana
 Accium
 Accius
@@ -242,7 +230,6 @@ Acestensium
 Acestes
 Acesti
 Acestis
-Ach
 Achae
 Achaea
 Achaeae
@@ -541,7 +528,6 @@ Acylla
 Acyllae
 Acyllam
 Acyta
-Ad
 Adae
 Adaei
 Adaeum
@@ -560,11 +546,6 @@ Adelphasium
 Adelphis
 Adelphorum
 Adelphos
-Adesto
-Adfecit
-Adfirmas
-Adfirmat
-Adfuit
 Adgandestrii
 Adher
 Adherbal
@@ -596,10 +577,6 @@ Admetum
 Admetus
 Adminio
 Admirabilium
-Admittat
-Admoneam
-Admonuitque
-Adnuit
 Ado
 Adon
 Adone
@@ -645,7 +622,6 @@ Adrumetina
 Adrumetinus
 Adrumeto
 Adryasin
-Adtrahat
 Adue
 Aduena
 Adulitarum
@@ -1365,8 +1341,6 @@ Agin
 Agipsum
 Agis
 Agita
-Agite
-Agitque
 Agl
 Aglaie
 Aglaophon
@@ -2155,7 +2129,6 @@ Aminneo
 Aminneum
 Amisiae
 Amisiam
-Amisit
 Amiso
 Amison
 Amissis
@@ -2664,7 +2637,6 @@ Antandros
 Antandrum
 Ante
 Anteambulones
-Antehac
 Antei
 Anteia
 Anteiam
@@ -3174,7 +3146,6 @@ Appios
 Appium
 Appius
 Appius_tanta
-Applicuit
 Appuleia
 Appuleiae
 Appuleiam
@@ -4131,7 +4102,6 @@ Arrianus
 Arrii
 Arrio
 Arrionillae
-Arripuit
 Arrium
 Arrius
 Arrotrebarum
@@ -4837,8 +4807,6 @@ Atlantion
 Atlantis
 Atlas
 Atossam
-Atq
-Atque
 Atra
 Atrabas
 Atracem
@@ -4996,7 +4964,6 @@ Aucto
 Auctoris
 Aucus
 Audenam
-Audet
 Aue
 Aueiae
 Auel
