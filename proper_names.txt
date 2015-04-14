@@ -20047,9 +20047,7 @@ Lavinium
 Lavino
 Lavinum
 Laxans
-Laxat
 Laxato
-Laxavit
 Lazarum
 Le
 Lea
@@ -20103,7 +20101,6 @@ Legerda
 Leges
 Legibus
 Legis
-Legisti
 Legum
 Lei
 Leito
@@ -20843,7 +20840,6 @@ Longinum
 Longinus
 Longior
 Longis
-Longiscunt
 Longo
 Longu
 Longulam
@@ -20873,7 +20869,6 @@ Lu
 Luae
 Luam
 Luamque
-Lubentiast
 Lubentinae
 Luc
 Luca
@@ -21391,41 +21386,10 @@ Lysoni
 Lysonis
 Lytharmis
 MALAGMATA
-MANV
 MARSVPPIVM
-MCC
-MCCC
-MCCCCXVIII
-MCCCLX
-MCCCLXXX
-MCCCV
-MCCL
-MCCXCII
-MCLXXVI
-MCLXXVIII
-MCXCV
-MCXL
-MCXLIIII
-MCXXXV
-MD
-MDC
-MDCCCCXCV
-MDCLXXXII
-MDCVI
 MEDICA
 MEDICINA
 MINOTAVRVS
-MLXX
-MM
-MMCCXIIII
-MMDCC
-MMLX
-MMM
-MMMM
-MMMMCCXXI
-MU
-MXVIIII
-Ma
 Mabog_ibi
 Mac
 Maca
@@ -21907,7 +21871,6 @@ Mandacandeni
 Mandaei
 Mandalum
 Mandanes
-Mandant
 Mandela
 Mandonio
 Mandonium
@@ -21985,7 +21948,6 @@ Mantuanus
 Mantum
 Mantus
 Manum
-Manumiserit
 Manumque
 Manuos
 Mar
@@ -22512,7 +22474,6 @@ Mavortius
 Mavra
 Mavri
 Mavris
-Mavult
 Max
 Maxentius
 Maxi
@@ -22887,7 +22848,6 @@ Menaechmis
 Menaechmo
 Menaechmum
 Menaechmus
-Menaechmust
 Menaeis
 Menaeni
 Menaenorum
@@ -22948,7 +22908,6 @@ Menelao
 Menelaon
 Menelaum
 Menelaus
-Menelaust
 Meneni
 Menenianum_adeo
 Menenio
@@ -23520,8 +23479,6 @@ Misagene
 Misagenem
 Misagenen
 Misagenes
-Miscent
-Miscere
 Misenates
 Misenensem
 Misenensi
@@ -23534,7 +23491,6 @@ Misenum
 Misenum_nam
 Misenus
 Miserandam
-Misere
 Miseria
 Misericordia
 Misericordiae
@@ -23833,8 +23789,6 @@ Mothonem
 Mothonen
 Mothrim
 Motu
-Movetque
-Mox
 Moy
 Moyse
 Moysen
@@ -24189,7 +24143,6 @@ Mytilenis
 Mytthumbalis
 NICODEMVS
 NOTAE
-NP
 Na
 Naba
 Nababes
@@ -24253,7 +24206,6 @@ Nais
 Nam
 Nammeius
 Namnet
-Namque
 Namusa
 Namusam
 Nanneianis
@@ -24337,8 +24289,6 @@ Nasamonio
 Nasamonitis
 Nasamonius
 Nasamonum
-Nascantur
-Nascuntur
 Nascus
 Nasica
 Nasicae
@@ -24619,7 +24569,6 @@ Neptunum
 Neptunumque
 Neptunus
 Neptvnivs
-Neque
 Nequi
 Nequinum
 Ner
@@ -24894,7 +24843,6 @@ Nigritae
 Nigro
 Nigroe
 Nigrum
-Nihil
 Nil
 Nile
 Nilei
