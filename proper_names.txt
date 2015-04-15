@@ -20047,9 +20047,7 @@ Lavinium
 Lavino
 Lavinum
 Laxans
-Laxat
 Laxato
-Laxavit
 Lazarum
 Le
 Lea
@@ -20103,7 +20101,6 @@ Legerda
 Leges
 Legibus
 Legis
-Legisti
 Legum
 Lei
 Leito
@@ -20843,7 +20840,6 @@ Longinum
 Longinus
 Longior
 Longis
-Longiscunt
 Longo
 Longu
 Longulam
@@ -20873,7 +20869,6 @@ Lu
 Luae
 Luam
 Luamque
-Lubentiast
 Lubentinae
 Luc
 Luca
@@ -21391,41 +21386,10 @@ Lysoni
 Lysonis
 Lytharmis
 MALAGMATA
-MANV
 MARSVPPIVM
-MCC
-MCCC
-MCCCCXVIII
-MCCCLX
-MCCCLXXX
-MCCCV
-MCCL
-MCCXCII
-MCLXXVI
-MCLXXVIII
-MCXCV
-MCXL
-MCXLIIII
-MCXXXV
-MD
-MDC
-MDCCCCXCV
-MDCLXXXII
-MDCVI
 MEDICA
 MEDICINA
 MINOTAVRVS
-MLXX
-MM
-MMCCXIIII
-MMDCC
-MMLX
-MMM
-MMMM
-MMMMCCXXI
-MU
-MXVIIII
-Ma
 Mabog_ibi
 Mac
 Maca
@@ -21907,7 +21871,6 @@ Mandacandeni
 Mandaei
 Mandalum
 Mandanes
-Mandant
 Mandela
 Mandonio
 Mandonium
@@ -21985,7 +21948,6 @@ Mantuanus
 Mantum
 Mantus
 Manum
-Manumiserit
 Manumque
 Manuos
 Mar
@@ -22512,7 +22474,6 @@ Mavortius
 Mavra
 Mavri
 Mavris
-Mavult
 Max
 Maxentius
 Maxi
@@ -22887,7 +22848,6 @@ Menaechmis
 Menaechmo
 Menaechmum
 Menaechmus
-Menaechmust
 Menaeis
 Menaeni
 Menaenorum
@@ -22948,7 +22908,6 @@ Menelao
 Menelaon
 Menelaum
 Menelaus
-Menelaust
 Meneni
 Menenianum_adeo
 Menenio
@@ -23520,8 +23479,6 @@ Misagene
 Misagenem
 Misagenen
 Misagenes
-Miscent
-Miscere
 Misenates
 Misenensem
 Misenensi
@@ -23534,7 +23491,6 @@ Misenum
 Misenum_nam
 Misenus
 Miserandam
-Misere
 Miseria
 Misericordia
 Misericordiae
@@ -23833,8 +23789,6 @@ Mothonem
 Mothonen
 Mothrim
 Motu
-Movetque
-Mox
 Moy
 Moyse
 Moysen
@@ -24189,7 +24143,6 @@ Mytilenis
 Mytthumbalis
 NICODEMVS
 NOTAE
-NP
 Na
 Naba
 Nababes
@@ -24253,7 +24206,6 @@ Nais
 Nam
 Nammeius
 Namnet
-Namque
 Namusa
 Namusam
 Nanneianis
@@ -24337,8 +24289,6 @@ Nasamonio
 Nasamonitis
 Nasamonius
 Nasamonum
-Nascantur
-Nascuntur
 Nascus
 Nasica
 Nasicae
@@ -24619,7 +24569,6 @@ Neptunum
 Neptunumque
 Neptunus
 Neptvnivs
-Neque
 Nequi
 Nequinum
 Ner
@@ -24894,7 +24843,6 @@ Nigritae
 Nigro
 Nigroe
 Nigrum
-Nihil
 Nil
 Nile
 Nilei
@@ -25127,12 +25075,6 @@ Nossemus
 Nost
 Nosti
 Nostius
-Nostraque
-Nostrarum
-Nostri
-Nostro
-Nostru
-Nostrum
 Nota
 Nothi
 Noti
@@ -25231,10 +25173,6 @@ Nuculae
 Nudae
 Nugides
 Nuitones
-Nullas
-Nulli
-Nullo
-Nullum
 Nulo
 Num
 Numa
@@ -25339,9 +25277,7 @@ Nummium
 Nummius
 Numquam
 Numquameripides
-Nunc
 Nunnium
-Nuper
 Nur
 Nursia
 Nursiae
@@ -25406,9 +25342,7 @@ Nyseus
 Nysiam
 Nysigenis
 Nyso
-OCVLI
 OSPREON
-OSSA
 Oaeneo
 Oaeneum
 Oarion
@@ -25420,7 +25354,6 @@ Oaxo
 Ob
 Obarito
 Obbam
-Obiectetque
 Obizenen
 Obliuio
 Obliuionem
@@ -25434,7 +25367,6 @@ Obscum
 Obsequentem
 Obsi
 Obsianis
-Obsistere
 Obsius
 Obstru
 Obuculam
@@ -25453,10 +25385,7 @@ Occidensque
 Occidente
 Occidentem
 Occidentis
-Occidit
-Occiduntur
 Occu
-Occumbunt
 Oce
 Ocea
 Oceani
@@ -25877,11 +25806,6 @@ Ombis
 Ombos
 Ombrion
 Omichle
-Omne
-Omnes
-Omni
-Omnia
-Omnino
 Omnipotens
 Omoemus
 Omphala
@@ -25997,11 +25921,8 @@ Opportunitas
 Ops
 Opscus
 Opsius
-Optabisque
-Optarent
 Optato
 Optatus
-Optavitque
 Opti
 Optima
 Optimae
@@ -26165,7 +26086,6 @@ Orithyia
 Orithyiae
 Orithyiam
 Orithyian
-Ornatur
 Orneus
 Ornithon
 Ornospa
@@ -26255,7 +26175,6 @@ Oscensi
 Oscensis
 Osci
 Oscis
-Oscitat
 Osco
 Oscor
 Oscorum
@@ -26415,7 +26334,6 @@ PETITOR
 PEXOR
 POLYTELES
 PRAEDONES
-PRIMVM
 Pa
 Pac
 Pacarium
@@ -26635,7 +26553,6 @@ Palaestino
 Palaestra
 Palaestrae
 Palaestram
-Palaestrast
 Palaestrio
 Palaestrionem
 Palaetyro
@@ -26854,7 +26771,6 @@ Pandionias
 Pandioniis
 Pandionio
 Pandionis
-Pandite
 Pandora
 Pandoram
 Pandosia
@@ -27085,7 +27001,6 @@ Pare
 Parentalia
 Parentis
 Parere
-Parerent
 Parhalum
 Pari
 Pariana
@@ -27258,8 +27173,6 @@ Parthyaea
 Parti
 Particulonem
 Partitionibus
-Partitur
-Parturit
 Parui
 Parum
 Parus
@@ -27331,7 +27244,6 @@ Patavino
 Patavinorum
 Patavium
 Pate
-Patefecit
 Pater
 Paterclianas
 Paterculi
@@ -27469,7 +27381,6 @@ Pedia
 Pediano
 Pedianus
 Pediatia
-Pedicare
 Pedii
 Pedio
 Pedium
@@ -27671,8 +27582,6 @@ Penates
 Penatibus
 Penatis
 Penatium
-Pendent
-Pendentem
 Penei
 Peneia
 Peneidas
@@ -27705,7 +27614,6 @@ Penio
 Penius
 Penni
 Pennus
-Pensavit
 Penta
 Pentapoleos
 Pentapolim
@@ -27871,9 +27779,6 @@ Permessi
 Permessida
 Permesside
 Permessus
-Permittis
-Permittit
-Permutat
 Pernen
 Pernidis
 Pero
@@ -27890,8 +27795,6 @@ Perperene
 Perperenis
 Perperna
 Perpernam
-Perpetitur
-Perque
 Perrh
 Perrhae
 Perrhaebi
@@ -28619,7 +28522,6 @@ Philum
 Philumena
 Philumenae
 Philumenam
-Philumenast
 Philus
 Philyra
 Philyrae
@@ -29307,7 +29209,6 @@ Planesium
 Plangenses
 Plania
 Plantam
-Plantantur
 Plariano
 Platae
 Plataearum
@@ -29808,7 +29709,6 @@ Pomtinis
 Pon
 Pone
 Ponere
-Ponitur
 Ponte
 Ponti
 Pontia
@@ -29919,13 +29819,10 @@ Porsina
 Porsinae
 Porsinna
 Porsinnae
-Portabat
 Portae
 Portam
-Portant
 Portarum
 Portas
-Portet
 Porthaone
 Porthaoniae
 Porthaonides
@@ -29960,9 +29857,6 @@ Posidonio
 Posidonium
 Posidonius
 Posidorus
-Posses
-Possit
-Possum
 Post
 Poste
 Posti
@@ -29992,7 +29886,6 @@ Postverta
 Postvertam
 Postvertaque
 Postvmi
-Posuisse
 Pota
 Potae
 Potamon
@@ -30038,7 +29931,6 @@ Praecilio
 Praecla
 Praeconi
 Praeconinus
-Praecurrit
 Praedam
 Praedamque
 Praefers
@@ -30062,20 +29954,16 @@ Praenestinus
 Praenestinvs
 Praenestis
 Praepositionibus
-Praeposuit
 Praesamarchi
 Praese
 Praesente
 Praesidium
 Praesidiumque
 Praestamarci
-Praestare
-Praestetis
 Praestos
 Praestri
 Praetavi
 Praete
-Praeter
 Praeteritosque
 Praetextato
 Praetor
@@ -30282,9 +30170,6 @@ Prodici
 Prodico
 Prodicum
 Prodicus
-Prodinunt
-Prodire
-Prodit
 Prodito
 Proditorem
 Proeti
@@ -30297,14 +30182,11 @@ Proetvm
 Profa
 Profe
 Professum
-Progenerat
 Progenie
 Progne
 Prognen
 Prognostica
 Prohibitus
-Proiciunt
-Proinde
 Prole
 Prolem
 Proletarius
@@ -30319,7 +30201,6 @@ Prometheos
 Prometheum
 Prometheus
 Promethides
-Promisit
 Promo
 Promolumque
 Prone
@@ -30337,7 +30218,6 @@ Propi
 Propo
 Propoetidas
 Propon
-Proponit
 Propontiacis
 Propontida
 Propontide
@@ -30351,14 +30231,12 @@ Propria
 Propter
 Prosci
 Proselenos
-Prosequitur
 Proser
 Proserpi
 Proserpina
 Proserpinae
 Proserpinaeque
 Proserpinam
-Prospectat
 Prosperina
 Prospicientis
 Prostituta
@@ -30412,7 +30290,6 @@ Proxeni
 Proxumus
 Pru
 Prudentem
-Prurire
 Prusae
 Prusenses
 Prusensium
@@ -30446,7 +30323,6 @@ Pseudodecimianum
 Pseudolo
 Pseudolum
 Pseudolus
-Pseudolust
 Pseudophilippi
 Pseudophilippo
 Pseudophilippum
@@ -30629,7 +30505,6 @@ Punicana
 Punicanos
 Punicarum
 Punicas
-Punicast
 Punice
 Puniceo
 Punici
@@ -30893,12 +30768,6 @@ Pythoum
 Pyxites
 Pyxurates
 Pyxus
-QVA
-QVAMLIBET
-QVOS
-Qu
-Qua
-Quacumque
 Quadi
 Quadis
 Quadorum
@@ -30915,29 +30784,12 @@ Quadrigari
 Quadrigarii
 Quadrigarium
 Quadrigarius
-Quae
-Quaeque
-Quaerit
-Quaestum
-Qualis
-Qualiscumque
-Quam
-Quamde
-Quamquam
-Quando
-Quantis
-Quanto
-Quantum
-Quar
-Quare
 Quarta
 Quartilla
 Quartillae
 Quartino
 Quarto
 Quartus
-Quas
-Quassatque
 Quat
 Quattuor
 Quem
@@ -30948,16 +30800,10 @@ Querquetulana
 Querquetulanum
 Querquetularia
 Questuque
-Qui
-Quid
-Quidnam
-Quies
-Quiet
 Quietis
 Quieto
 Quietum
 Quietus
-Quin
 Quina
 Quinc
 Quincti
@@ -31054,20 +30900,7 @@ Quiritibusque
 Quiritis
 Quiritium
 Quiritum
-Quis
-Quisquam
-Quisquis
 Quiza
-Quo
-Quod
-Quom
-Quomque
-Quos
-Quot
-Quoteni
-Quotenos
-Quotiens
-Quoui
 Qvinqvatribvs
 Qvintilivm
 Qviri
@@ -31076,9 +30909,6 @@ Qvirinvs
 Qviritem
 Qviritivm
 RATIONALEM
-RED
-REDDITVM
-REPRIMVNT
 RIVO
 Ra
 Rabienus
@@ -31192,14 +31022,7 @@ Recepti
 Receptus
 Rectinae
 Reda
-Redantruare
-Reddidit
-Reddunturque
-Rediit
-Redire
-Reduci
 Referu
-Refibulavit
 Rege
 Regem
 Reges
@@ -31293,8 +31116,6 @@ Resona
 Respecto
 Respiciens
 Respo
-Respondit
-Respueris
 Restio
 Restione
 Restionem
@@ -31304,7 +31125,6 @@ Reti
 Retico
 Retinens
 Retovina
-Reus
 Reverendo
 Reverentia
 Rex
@@ -31478,7 +31298,6 @@ Rhypara
 Rhysaddir
 Rhytieus
 Ridenti
-Ridere
 Rigas
 Rigodulum
 Rip
@@ -31499,7 +31318,6 @@ Riphaeum
 Riphaeus
 Riphea
 Riphearina
-Riserunt
 Risi
 Risui
 Risum
@@ -31574,7 +31392,6 @@ Romanus
 Romanus_adeo
 Romanusque
 Romaque
-Romast
 Romen
 Romi
 Romilia
@@ -31737,7 +31554,6 @@ Ruspi
 Ruspina
 Ruspinae
 Ruspinam
-Russescunt
 Rusti
 Rustici
 Rustico
@@ -31910,7 +31726,6 @@ Saecularibus
 Saenia
 Saeniani
 Saenianus
-Saepe
 Saepinum
 Saepiosi
 Saepta
@@ -32496,7 +32311,6 @@ Satarchen
 Satellius
 Satharcheos
 Sati
-Satiatur
 Satibarzanen
 Satibarzanes
 Saticula
@@ -32747,7 +32561,6 @@ Sciatho
 Sciathos
 Sciathum
 Scilla
-Scinde
 Scintilla
 Scintillae
 Scintillaeque
@@ -32779,7 +32592,6 @@ Scirone
 Scironia
 Scironides
 Scironis
-Scis
 Scodra
 Scodrae
 Scodram
@@ -32965,10 +32777,6 @@ Secundinum
 Secundo
 Secundum
 Secundus
-Sed
-Sede
-Sedere
-Sedet
 Sedetana
 Sedetani
 Sedetano
@@ -33167,8 +32975,6 @@ Senonibus
 Senonicum
 Senonum
 Senonumque
-Sensi
-Sensit
 Sensuro
 Senta
 Sentii
@@ -33793,7 +33599,6 @@ Simpulum
 Simu
 Simul
 Simulante
-Simulavit
 Simulo
 Simulque
 Simulum
@@ -33971,8 +33776,6 @@ Sittio
 Sittium
 Sittius
 Sittius_non
-Siue
-Sive
 Smer
 Smerde
 Smerden
@@ -34034,7 +33837,6 @@ Sol
 Solanades
 Sole
 Solea
-Solebat
 Solem
 Solense
 Solensem
@@ -34153,7 +33955,6 @@ Sosagorae
 Sosi
 Sosia
 Sosiae
-Sosiaest
 Sosiam
 Sosiam_
 Sosianum
@@ -34218,10 +34019,6 @@ Spano
 Spanum
 Spaosines
 Spar
-Spargantur
-Sparge
-Spargite
-Spargor
 Sparsis
 Sparsum
 Sparsus
@@ -34321,7 +34118,6 @@ Spoletinorum
 Spoletinum
 Spoletinus
 Spoletium
-Sponde
 Spongiam
 Sporadas
 Sporades
@@ -34371,7 +34167,6 @@ Stalticius
 Stameni
 Staminariis
 Stans
-Stant
 Staphylus
 Stasanor
 Stasea
@@ -34567,7 +34362,6 @@ Stre
 Streniae
 Stricturae
 Stridentesque
-Stringitque
 Strobilum
 Strong
 Strongulam
@@ -34642,7 +34436,6 @@ Stymphalidas
 Stymphalides
 Stymphalidos
 Stymphalis
-Stymphalist
 Stymphalon
 Styphelumque
 Styra
@@ -34655,9 +34448,7 @@ Suada
 Suadaeque
 Suadaique
 Suadam
-Suadebat
 Suadela
-Suadet
 Suae
 Suanorum
 Suanos
@@ -34689,7 +34480,6 @@ Subrio
 Subrium
 Subrius
 Subsedit
-Subtiliter
 Sububam
 Sububus
 Subuculae
@@ -34710,7 +34500,6 @@ Sucasini
 Successori
 Succhabar
 Succincti
-Succurrent
 Succusa
 Succusano
 Succusanus
@@ -34853,11 +34642,7 @@ Sunio
 Sunion
 Sunium
 Sunius
-Sunt
 Sunucis
-Suo
-Suoque
-Superasse
 Superbe
 Superbi
 Superbo
@@ -35125,12 +34910,9 @@ Syrum
 Syrus
 Syrvs
 Sysinas
-TANTVM
 TETRAPVS
 THALASSA
 THYMION
-TI
-TROPAEVM
 TROPETES
 Ta
 Tabas
