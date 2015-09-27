@@ -2328,7 +2328,6 @@ Amythaone
 Amythaonia
 Amythaonis
 Amythaonius
-An
 Ana
 Anabura
 Anac
@@ -13927,7 +13926,6 @@ Esses
 Essuvios
 Essuviosque
 Esus
-Et
 Etaxalos
 Eteocle
 Eteoclea
@@ -18147,7 +18145,6 @@ Iazygas
 Iazyges
 Iazyx
 Ibem
-Ibi
 Ibide
 Ibin
 Ibyci
@@ -24438,7 +24435,6 @@ Nebrissa
 Nebroden
 Nebropho
 Nebula
-Nec
 Nece
 Necepsos
 Necessario
@@ -24917,12 +24913,10 @@ Nisaeum
 Nisam
 Nisei
 Niseia
-Nisi
 Nisiadesque
 Nisiaea
 Nisib
 Nisibin
-Nisique
 Niso
 Nissos
 Nisum
@@ -25109,11 +25103,8 @@ Nouis
 Nouium
 Nouiumque
 Nouius
-Nova
-Novae
 Novaesio
 Novaesium
-Novam
 Novamviam
 Novanus
 Novapolis
@@ -27637,7 +27628,6 @@ Peparetho
 Peparethos
 Peparethum
 Pephrasmenos
-Per
 Pera
 Peraea
 Peraeae
@@ -29857,7 +29847,6 @@ Posidonio
 Posidonium
 Posidonius
 Posidorus
-Post
 Poste
 Posti
 Postilla
@@ -33289,7 +33278,6 @@ Sextoque
 Sextum
 Sextumque
 Sextus
-Si
 Sialetae
 Sibe
 Sibero
@@ -33833,18 +33821,14 @@ Sogdianorum
 Sogdianos
 Sohaemo
 Sohaemus
-Sol
 Solanades
-Sole
 Solea
-Solem
 Solense
 Solensem
 Solensis
 Soles
 Soleus
 Soli
-Soli_
 Soligenae
 Soligenam
 Solimo
